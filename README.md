@@ -48,3 +48,17 @@ EDU NFT is the repository reserved for NFT card metadata of the Eternal Dominion
 ## License
 
 [MIT](LICENSE)
+
+<!-- ecosystem:begin (自動生成: gentaron/infocollect の ecosystem/registry.json から。手で直さない) -->
+
+## つながり
+
+gentaron のリポジトリ群のうち **EDU 宇宙** の一つ。EDU の NFT カードのメタデータ。
+
+- **受け取る**: [edutext](https://github.com/gentaron/edutext)（EDU の原典）、[image](https://github.com/gentaron/image)（キャラクターアート）
+- **同じ島**: [edu](https://github.com/gentaron/edu)、[eurekaspace](https://github.com/gentaron/eurekaspace)、[irisworlds](https://github.com/gentaron/irisworlds)、[laylaland](https://github.com/gentaron/laylaland)、[gamemina](https://github.com/gentaron/gamemina)
+- **前身**: [CryptoMemeCoin](https://github.com/gentaron/CryptoMemeCoin)
+
+全体の地図 → [ecosystem](https://github.com/gentaron/infocollect/blob/HEAD/ecosystem/README.md)
+
+<!-- ecosystem:end -->
